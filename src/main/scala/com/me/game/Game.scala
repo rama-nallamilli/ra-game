@@ -1,3 +1,5 @@
+package com.me.game
+
 import org.newdawn.slick.{AppGameContainer, Graphics, GameContainer, BasicGame}
 
 class Game extends BasicGame("A Slick2d game") {
